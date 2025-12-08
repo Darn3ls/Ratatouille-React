@@ -1,3 +1,5 @@
+import { Rating } from '@mui/material';
+
 export default function RecipeCard({ recipe }) {
   return (
 
@@ -33,7 +35,7 @@ export default function RecipeCard({ recipe }) {
       
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '1rem', paddingTop: '1rem', borderTop: '1px solid #e5e5e0' }}>
         <p style={{ margin: 0, fontSize: '12px' }}> 👤 {recipe.author}</p>
-        <p style={{ margin: 0, fontSize: '12px', color: '#e74c3c' }}> {recipe.rating} / 5 </p>
+        <Rating name="size-small" defaultValue={4} size="small" />
       </div>
     </div>
   )
