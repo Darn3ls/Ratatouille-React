@@ -7,7 +7,7 @@
     "time": "45m",
     "difficulty": "Medium",
     "author": "Francesco Logli",
-    "rating": 4.5
+    "rating": 3
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "time": "25m",
     "difficulty": "Easy",
     "author": "Filippo Fiazza",
-    "rating": 5
+    "rating": 4.5
   },
   {
     "id": 3,
@@ -27,6 +27,26 @@
     "time": "90m",
     "difficulty": "Hard",
     "author": "Lorenzo Cotti",
-    "rating": 4.2
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "title": "Hamburger",
+    "imagePath": "/images/hamburger.jpg",
+    "tags": ["ASIAN", "QUICK"],
+    "time": "25m",
+    "difficulty": "Easy",
+    "author": "Filippo Fiazza",
+    "rating": 2.5
+  },
+  {
+    "id": 5,
+    "title": "Spaghetti Carbonara",
+    "imagePath": "/images/pasta-carbonara.jpg",
+    "tags": ["DESSERTS", "BAKING"],
+    "time": "90m",
+    "difficulty": "Hard",
+    "author": "Lorenzo Cotti",
+    "rating": 4.5
   }
 ]
