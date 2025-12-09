@@ -14,7 +14,7 @@ export default function RecipeCard({ recipe }) {
         padding: '0rem',
         boxShadow: '0 2px 8px rgba(0, 0, 0, 0.08)',
         transition: 'box-shadow 0.2s ease',
-        cursor: 'pointer',
+        
       }}
     >
       <CardActionArea>
