@@ -5,8 +5,6 @@ export default function Explore() {
 
       <p>Favorites Page - Coming Soon!</p>
 
-      <p>EXAMPLE</p>
-
     </>
   );
 }
