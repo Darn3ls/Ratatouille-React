@@ -32,7 +32,7 @@ export default function RecipeCard({ recipe }) {
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '1rem', paddingTop: '1rem', borderTop: '1px solid #e5e5e0' }}>
             <p style={{ margin: 0, fontSize: '12px' }}> 👤 {recipe.author}</p>
             <Rating name="size-small" value={recipe.rating} size="small" precision={0.5} readOnly/>
-            
+            <p></p>
           </div>
 
           </Typography>
