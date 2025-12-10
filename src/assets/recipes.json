@@ -48,5 +48,15 @@
     "difficulty": "Hard",
     "author": "Lorenzo Cotti",
     "rating": 4.5
+  },
+  {
+    "id": 6,
+    "title": "Spaghetti Carbonara",
+    "imagePath": "/images/pasta-carbonara.jpg",
+    "tags": ["DESSERTS", "BAKING"],
+    "time": "90m",
+    "difficulty": "Hard",
+    "author": "Lorenzo Cotti",
+    "rating": 4.0
   }
 ]
