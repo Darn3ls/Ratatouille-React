@@ -20,7 +20,7 @@ export default function Footer() {
             fontSize: '0.95rem',
           }}
         >
-          Ratatouille - Made with ❤️
+          Ratatouille © - Made with ❤️
         </Typography>
       </Container>
     </Box>
